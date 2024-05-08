@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "square game", "square game\square game.csproj", "{80C450BE-A82A-43AE-AC24-8C98298E9AB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80C450BE-A82A-43AE-AC24-8C98298E9AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80C450BE-A82A-43AE-AC24-8C98298E9AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80C450BE-A82A-43AE-AC24-8C98298E9AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80C450BE-A82A-43AE-AC24-8C98298E9AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BA29DDE-9C81-4C85-8F80-D5FB65FCD05A}
+	EndGlobalSection
+EndGlobal
